@@ -4,8 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5068b7d4-dd36-44c6-a614-1f43f1d84127" name="Changes" comment="ignore">
-      <change afterPath="$PROJECT_DIR$/src/bitwise/Operadores.java" afterDir="false" />
+    <list default="true" id="5068b7d4-dd36-44c6-a614-1f43f1d84127" name="Changes" comment="Operadores de bitwise">
+      <change afterPath="$PROJECT_DIR$/src/exercicio/CalculaTriangulo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/exercicio/Triangulo.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -50,6 +51,7 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "ASKED_ADD_EXTERNAL_FILES": "true",
+    "Application.CalculaTriangulo.executor": "Run",
     "Application.Entrada.executor": "Run",
     "Application.Operadores.executor": "Run",
     "Application.Saida.executor": "Run",
@@ -63,7 +65,20 @@
     "project.structure.side.proportion": "0.2"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Operadores">
+  <component name="RunManager" selected="Application.CalculaTriangulo">
+    <configuration name="CalculaTriangulo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="exercicio.CalculaTriangulo" />
+      <module name="nelio-poo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="exercicio.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Entrada" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="entradaDados.Entrada" />
       <module name="nelio-poo" />
@@ -105,6 +120,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.CalculaTriangulo" />
         <item itemvalue="Application.Operadores" />
         <item itemvalue="Application.Entrada" />
         <item itemvalue="Application.Saida" />
@@ -160,7 +176,15 @@
       <option name="project" value="LOCAL" />
       <updated>1718385144350</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Operadores de bitwise">
+      <option name="closed" value="true" />
+      <created>1718801183093</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1718801183093</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -170,6 +194,7 @@
     <MESSAGE value="casting de dados" />
     <MESSAGE value="entrada de dados" />
     <MESSAGE value="ignore" />
-    <option name="LAST_COMMIT_MESSAGE" value="ignore" />
+    <MESSAGE value="Operadores de bitwise" />
+    <option name="LAST_COMMIT_MESSAGE" value="Operadores de bitwise" />
   </component>
 </project>
