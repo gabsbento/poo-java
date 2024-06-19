@@ -4,7 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5068b7d4-dd36-44c6-a614-1f43f1d84127" name="Changes" comment="entrada de dados">
+    <list default="true" id="5068b7d4-dd36-44c6-a614-1f43f1d84127" name="Changes" comment="ignore">
+      <change afterPath="$PROJECT_DIR$/src/bitwise/Operadores.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -23,9 +24,21 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
     <option name="SET_USER_NAME_GLOBALLY" value="false" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 0
-}]]></component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;gabsbento&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/gabsbento/poo-java.git&quot;,
+    &quot;accountId&quot;: &quot;c7033adf-9d5d-4362-8416-a547e9733da1&quot;
+  }
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 0
+}</component>
   <component name="ProjectId" id="2hsBk4bCV5s3O3NoPTQ92Zaajqc" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -38,23 +51,38 @@
   "keyToString": {
     "ASKED_ADD_EXTERNAL_FILES": "true",
     "Application.Entrada.executor": "Run",
+    "Application.Operadores.executor": "Run",
     "Application.Saida.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
     "ignore.virus.scanning.warn.message": "true",
     "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "D:/gabriel/workspace/udemy/java/spring-thymeleaf/demo-mvc",
     "project.structure.last.edited": "Project",
     "project.structure.proportion": "0.0",
     "project.structure.side.proportion": "0.2"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Entrada">
+  <component name="RunManager" selected="Application.Operadores">
     <configuration name="Entrada" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="entradaDados.Entrada" />
       <module name="nelio-poo" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="entradaDados.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Operadores" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="bitwise.Operadores" />
+      <module name="nelio-poo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="bitwise.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -77,6 +105,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Operadores" />
         <item itemvalue="Application.Entrada" />
         <item itemvalue="Application.Saida" />
       </list>
@@ -123,7 +152,15 @@
       <option name="project" value="LOCAL" />
       <updated>1718375840134</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="ignore">
+      <option name="closed" value="true" />
+      <created>1718385144350</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1718385144350</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -132,6 +169,7 @@
     <MESSAGE value="utilizacao do locale" />
     <MESSAGE value="casting de dados" />
     <MESSAGE value="entrada de dados" />
-    <option name="LAST_COMMIT_MESSAGE" value="entrada de dados" />
+    <MESSAGE value="ignore" />
+    <option name="LAST_COMMIT_MESSAGE" value="ignore" />
   </component>
 </project>
