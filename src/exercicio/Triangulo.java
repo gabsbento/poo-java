@@ -12,4 +12,9 @@ public class Triangulo {
     public double area(){
         return Math.sqrt(semiperimetro() * (semiperimetro() - this.a) * (semiperimetro() - this.b) * (semiperimetro() - this.c));
     }
+
+    public String toString(){
+        return "Lado A: " +this.a+ "\nLado B: "+this.b+"\nLado C: "+this.c;
+    }
+
 }
